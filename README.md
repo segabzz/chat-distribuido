@@ -2,6 +2,8 @@
 
 Aplicación de chat cliente-servidor en tiempo real usando TCP sockets, SQLite y Docker.
 
+> Asistido por [opencode.ai](https://opencode.ai)
+
 ## Tecnologías
 
 - Python 3 (stdlib: `socket`, `threading`, `sqlite3`)
